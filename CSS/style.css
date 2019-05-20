@@ -10,8 +10,6 @@ body {
     line-height: 1.7em;
 }
 
-/* Utility */
-
 .form-group {
     margin-bottom: 20px;
 }
@@ -90,7 +88,6 @@ p {
     color: #333;
 }
 
-/* Navbar */
 nav {
     background: #333;
     overflow: auto;
@@ -125,7 +122,7 @@ nav ul li a.current, nav ul li a:hover {
     color: #f7c08a;
 }
 
-/* Showcase */
+
 
 #showcase {
     background: url("../img/showcase.jpg") no-repeat center center/cover;
